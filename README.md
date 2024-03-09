@@ -1,6 +1,6 @@
 # MLOps Curriculum 🚀
 
-![MLOps Logo](https://cdn-api.elice.io/api-attachment/attachment/0605359cbcac4a4fbb01a3040655c9e9/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B51.png)
+![MLOps Logo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*34WGNvh5yIUkfvjwnGQIyw.gif)
 
 
 
