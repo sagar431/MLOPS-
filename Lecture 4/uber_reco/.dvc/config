@@ -1,2 +1,5 @@
 [core]
     no_scm = True
+    remote = remote
+['remote "remote"']
+    url = ../tmp
